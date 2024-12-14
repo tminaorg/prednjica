@@ -16,7 +16,7 @@
 	},
 	"devDependencies": {
 		"@hearchco/sveltekit-adapter-aws": "npm:@jsr/hearchco__sveltekit-adapter-aws@^0.1.12",
-		"@playwright/test": "^1.49.0",
+		"@playwright/test": "^1.49.1",
 		"@sveltejs/adapter-auto": "^3.3.1",
 		"@sveltejs/adapter-node": "^5.2.9",
 		"@sveltejs/kit": "^2.11.1",
